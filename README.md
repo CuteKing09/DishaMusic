@@ -23,7 +23,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
    
-<p align="center"><a href=(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adityabots/tgmusicbot)
+<p align="center"><a href=(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CuteKing09/DishaMusic)
 
 
 <h3 align="center">
