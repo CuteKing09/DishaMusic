@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 ᴀɴᴏɴ ダ ᴍᴜsɪᴄ 」──
+    ──「 ᴅɪꜱʜᴀ ダ ᴍᴜsɪᴄ 」──
 </h2>
 
 <p align="center">
@@ -41,7 +41,7 @@
 </p>
 
 <p align="center">
-<a href="https://telegram.me/Cute_King09"><img src="https://img.shields.io/badge/%20CuteKing-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Cute_King09"><img src="https://img.shields.io/badge/%20Cute King-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
