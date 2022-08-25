@@ -18,8 +18,12 @@
 <p align="center">
   <img src="https://telegra.ph/file/c4f81ac6122e918023d67.jpg">
 </p>
-    
-[!─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adityabots/tgmusicbot)
+ 
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+   
+<p align="center"><a href=(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/adityabots/tgmusicbot)
 
 
 <h3 align="center">
