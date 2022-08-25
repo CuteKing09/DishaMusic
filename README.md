@@ -19,11 +19,11 @@
   <img src="https://telegra.ph/file/c4f81ac6122e918023d67.jpg">
 </p>
  
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-   
-<p align="center"><a href=(https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/CuteKing09/DishaMusic)
+
+### Deploy On OkTeto
+
+[![Deploy+On+Okteto](https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto)](https://cloud.okteto.com/deploy?repository=https://github.com/CuteKing09/DishaMusic)
+
 
 ### Deploy To Heroku
 
