@@ -24,10 +24,10 @@ OWNER_NAME = getenv("OWNER_NAME", "➳➣⃟ᴵᴬᴹ ₡U₸E ƙł₦G 𓆩😈
 OWNER_USERNAME = getenv("OWNER_USERNAME", "Cute_King09")
 SOURCE_CODE = getenv("SOURCE_CODE", "https://github.com/CuteKing09/DishaMusic")
 STRING_SESSION = getenv("STRING_SESSION", "session")
-SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5356564375").split()))
+SUDO_USERS = list(map(int, getenv("SUDO_USERS", "5399406295").split()))
 SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/DevilHaveliMF")
 UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "https://t.me/DevilServerMF")
 
 # 𝐃𝐨 𝐍𝐨𝐭 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐡𝐢𝐬 𝐋𝐢𝐧𝐞𝐬 // 𝐈𝐠𝐧𝐨𝐫𝐞 𝐓𝐡𝐢𝐬 (𝑪𝒖𝒕𝒆 𝑲𝒊𝒏𝒈) 
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
-PROFILE_CHANNEL = getenv("PROFILE_CHANNEL", "https://t.me/Team_STD_Network")
+NETWORK_CHANNEL = getenv("NETWORK_CHANNEL", "https://t.me/Team_STD_Network")
