@@ -1,4 +1,4 @@
-# 𝐀𝐝𝐢𝐭𝐲𝐚 𝐇𝐚𝐥𝐝𝐞𝐫 // @𝑨𝒅𝒊𝒕𝒚𝒂𝑯𝒂𝒍𝒅𝒆𝒓
+# 𝑪𝒖𝒕𝒆 𝑲𝒊𝒏𝒈 // @𝑪𝒖𝒕𝒆_𝑲𝒊𝒏𝒈09
 import os
 import aiofiles
 import aiohttp
@@ -107,7 +107,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
     draw.text((190, 630), f"Views: {views}", (255, 255, 255), font=font)
     draw.text(
         (190, 670),
-        f"Powered By: Aditya Halder (@AdityaHalder)",
+        f"Powered By: Cute King (@Cute_King09)",
         (255, 255, 255),
         font=font,
     )
@@ -135,7 +135,7 @@ async def play(_, message: Message):
     try:
         user = await USER.get_me()
     except:
-        user.first_name = "Aditya_Player"
+        user.first_name = "MissCuteMusic"
     usar = user
     wew = usar.id
     try:
