@@ -127,7 +127,7 @@ async def play(_, message: Message):
     global que
     global useer
     await message.delete()
-    lel = await message.reply("**🔎 𝐒𝐞𝐚𝐫𝐜𝐡𝐢𝐧𝐠 ...**")
+    lel = await message.reply("**🔎 ꜱᴇᴀʀᴄʜɪɴɢ ʏᴏᴜʀ ᴍᴜꜱɪᴄ ᴘʟᴇᴀꜱᴇ ᴡᴀɪᴛ ...**")
 
     administrators = await get_administrators(message.chat)
     chid = message.chat.id
