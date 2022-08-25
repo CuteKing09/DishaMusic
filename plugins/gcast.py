@@ -1,4 +1,4 @@
-# 𝑪𝒐𝒑𝒚𝒓𝒊𝒈𝒉𝒕 (C) 2022 𝑩𝒚 @Cute_King09
+# 𝑪𝒐𝒑𝒚𝒓𝒊𝒈𝒉𝒕 (C) 2022 𝑩𝒚 @𝑪𝒖𝒕𝒆_𝑲𝒊𝒏𝒈09
 
 import asyncio
 from pyrogram import Client, filters
