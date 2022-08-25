@@ -191,22 +191,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
+                            text="🥀 ᴏᴡɴᴇʀ 🕊️",
                             url=f"https://t.me/{OWNER_USERNAME}")
                ],
                [
                     InlineKeyboardButton(
-                            text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
+                            text="📡 ᴜᴘᴅᴀᴛᴇ",
                             url=f"{UPDATES_CHANNEL}"),
                             
                     InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
+                            text="ꜱᴜᴘᴘᴏʀᴛ 💬",
                             url=f"{SUPPORT_GROUP}")
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            text="😎 ɴᴇᴛᴡᴏʀᴋ 🌺",
+                            url=f"{NETWORK_CHANNEL}")
                    
                 ]
             ]
@@ -244,22 +244,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
+                            text="🥀 ᴏᴡɴᴇʀ 🕊️",
                             url=f"https://t.me/{OWNER_USERNAME}")
                ],
                [
                     InlineKeyboardButton(
-                            text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
+                            text="📡 ᴜᴘᴅᴀᴛᴇ",
                             url=f"{UPDATES_CHANNEL}"),
                             
                     InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
+                            text="ꜱᴜᴘᴘᴏʀᴛ 💬",
                             url=f"{SUPPORT_GROUP}")
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            text="😎 ɴᴇᴛᴡᴏʀᴋ 🌺",
+                            url=f"{NETWORK_CHANNEL}")
                    
                 ]
             ]
@@ -274,22 +274,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
+                            text="🥀 ᴏᴡɴᴇʀ 🕊️",
                             url=f"https://t.me/{OWNER_USERNAME}")
                ],
                [
                     InlineKeyboardButton(
-                            text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
+                            text="📡 ᴜᴘᴅᴀᴛᴇ",
                             url=f"{UPDATES_CHANNEL}"),
                             
                     InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
+                            text="ꜱᴜᴘᴘᴏʀᴛ 💬",
                             url=f"{SUPPORT_GROUP}")
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            text="😎 ɴᴇᴛᴡᴏʀᴋ 🌺",
+                            url=f"{NETWORK_CHANNEL}")
                    
                 ]
             ]
@@ -308,7 +308,7 @@ async def play(_, message: Message):
             return await lel.edit(
                 "**🤖 𝐆𝐢𝐯𝐞 🙃 𝐌𝐮𝐬𝐢𝐜 💿 𝐍𝐚𝐦𝐞 😍\n💞 𝐓𝐨 🔊 𝐏𝐥𝐚𝐲 🥀 𝐒𝐨𝐧𝐠 🌷...**"
             )
-        await lel.edit("**🔄 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠 ...**")
+        await lel.edit("**🔄 Processing Query... Please Wait!**")
         query = message.text.split(None, 1)[1]
         # print(query)
         try:
@@ -342,22 +342,22 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                            text="🥀 𝐎𝐰𝐧𝐞𝐫'𝐱𝐃 🕊️",
+                            text="🥀 ᴏᴡɴᴇʀ 🕊️",
                             url=f"https://t.me/{OWNER_USERNAME}")
                ],
                [
                     InlineKeyboardButton(
-                            text="📡 𝐔𝐩𝐝𝐚𝐭𝐞𝐬",
+                            text="📡 ᴜᴘᴅᴀᴛᴇ",
                             url=f"{UPDATES_CHANNEL}"),
                             
                     InlineKeyboardButton(
-                            text="𝐒𝐮𝐩𝐩𝐨𝐫𝐭 💬",
+                            text="ꜱᴜᴘᴘᴏʀᴛ 💬",
                             url=f"{SUPPORT_GROUP}")
                ],
                [
                         InlineKeyboardButton(
-                            text="😎 𝐅𝐞𝐞𝐋𝐢𝐧𝐠'𝐒 🌺",
-                            url=f"{PROFILE_CHANNEL}")
+                            text="😎 ɴᴇᴛᴡᴏʀᴋ 🌺",
+                            url=f"{NETWORK_CHANNEL}")
                    
                 ]
             ]
