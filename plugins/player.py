@@ -206,7 +206,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 ɴᴇᴛᴡᴏʀᴋ 🌺",
-                            url=f"{NETWORK_CHANNEL}")
+                            url=f"{PROFILE_CHANNEL}")
                    
                 ]
             ]
@@ -259,7 +259,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 ɴᴇᴛᴡᴏʀᴋ 🌺",
-                            url=f"{NETWORK_CHANNEL}")
+                            url=f"{PROFILE_CHANNEL}")
                    
                 ]
             ]
@@ -289,7 +289,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 ɴᴇᴛᴡᴏʀᴋ 🌺",
-                            url=f"{NETWORK_CHANNEL}")
+                            url=f"{PROFILE_CHANNEL}")
                    
                 ]
             ]
@@ -357,7 +357,7 @@ async def play(_, message: Message):
                [
                         InlineKeyboardButton(
                             text="😎 ɴᴇᴛᴡᴏʀᴋ 🌺",
-                            url=f"{NETWORK_CHANNEL}")
+                            url=f"{PROFILE_CHANNEL}")
                    
                 ]
             ]
