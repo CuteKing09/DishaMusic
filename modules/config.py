@@ -30,4 +30,4 @@ UPDATES_CHANNEL = getenv("UPDATES_CHANNEL", "https://t.me/DevilServerMF")
 
 # 𝐃𝐨 𝐍𝐨𝐭 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐡𝐢𝐬 𝐋𝐢𝐧𝐞𝐬 // 𝐈𝐠𝐧𝐨𝐫𝐞 𝐓𝐡𝐢𝐬 (𝑪𝒖𝒕𝒆 𝑲𝒊𝒏𝒈) 
 COMMAND_PREFIXES = list(getenv("COMMAND_PREFIXES", "/ ! .").split())
-NETWORK_CHANNEL = getenv("NETWORK_CHANNEL", "https://t.me/Team_STD_Network")
+PROFILE_CHANNEL = getenv("PROFILE_CHANNEL", "https://t.me/Team_STD_Network")
